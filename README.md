@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-<!--
-**shaul-s/shaul-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Technion Mapping and Geo-Information student with a passion for visualizing geographic data and utilizing technology to create new solutions.
 
 ### Programming Languages I Work With
 
 Python | MATLAB | C# |
+
+<!--
+**shaul-s/shaul-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
