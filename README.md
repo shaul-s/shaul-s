@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-My name is Shaul and I'm a Technion Mapping and Geo-Information student with a passion for visualizing geographic data and utilizing technology to create new solutions.
+I'm a Technion Mapping and Geo-Information student with a passion for visualizing geographic data and utilizing technology to create new solutions.
 
 
 <!--
